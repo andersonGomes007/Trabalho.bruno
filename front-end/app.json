@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "andyshop-shop",
+    "slug": "andyshop-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon_.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo22_.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#c7ffb0"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favicon.png",
+        "backgroundColor": "#a1df8d"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
